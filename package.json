@@ -4,7 +4,7 @@
   "description": "Workflow",
   "main": "app.js",
   "scripts": {
-    "test": ""
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Gustavo-dev-software/AplicacaoNodeAula/issues"
   },
-  "homepage": "https://github.com/Gustavo-dev-software/AplicacaoNodeAula#readme"
+  "homepage": "https://github.com/Gustavo-dev-software/AplicacaoNodeAula#readme",
+  "dependencies": {
+    "jest": "^27.2.0"
+  }
 }
