@@ -4,7 +4,7 @@
   "description": "Workflow",
   "main": "app.js",
   "scripts": {
-    "test": "node test.js"
+    "test": ""
   },
   "repository": {
     "type": "git",
